@@ -65,6 +65,12 @@
                     ], 3 ]
   ],
   "waterLooksSalty": [
-    [ "antonius", "Dieses Meerwasser sieht sehr suppig aus", [null, "slsssll"] ]
+    [ "antonius",   [ "Dieses Meerwasser sieht",
+                      "sehr suppig aus"
+                    ], [null, "slsssll"] ]
+  ],
+  "hatchlingsNotYetHatching": [
+    [ "antonius", "Schlüpfen sie jetzt?", [null, "sssl"] ],
+    [ "breedingGeese", "Nein.", 1 ]
   ]
 }
